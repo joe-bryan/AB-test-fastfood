@@ -16,3 +16,8 @@ The task is to determine which promotion should be used by the fast food chain. 
 <li>Analyze the results of the marketing campaign by observing the sales by promotion type</li>
 <li>Bootstraping and ANOVA tests to prove statistical significance</li>
 </ol>
+
+## Data Visualization Samples
+<img width="338" alt="snip1" src="https://user-images.githubusercontent.com/101160575/179429371-dfbfd27d-09ef-49c8-9afe-e9a72dde26dc.png">
+<img width="356" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179429374-ee45b5e2-f2a0-4a58-9ab4-1c45629540d7.png">
+<img width="404" alt="snip3" src="https://user-images.githubusercontent.com/101160575/179429377-86673321-31b0-48e5-8049-e853096f0343.png">
